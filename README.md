@@ -18,12 +18,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -36,5 +38,10 @@
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
