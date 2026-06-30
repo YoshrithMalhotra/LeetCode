@@ -18,6 +18,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -40,6 +42,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
+| [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -52,4 +55,12 @@
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
