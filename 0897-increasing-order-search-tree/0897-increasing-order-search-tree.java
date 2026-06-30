@@ -21,9 +21,7 @@ class Solution {
     public TreeNode increasingBST(TreeNode root) {
         dummy = new TreeNode(-1);
         prev = dummy;
-
         inorder(root);
-
         return dummy.right;
     }
 
