@@ -17,6 +17,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -49,6 +50,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -61,6 +63,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Stack
@@ -84,4 +87,12 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
