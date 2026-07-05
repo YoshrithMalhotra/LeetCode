@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0011-container-with-most-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
