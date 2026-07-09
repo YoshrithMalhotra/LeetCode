@@ -37,6 +37,7 @@
 | [0872-leaf-similar-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -76,6 +78,7 @@
 | [0872-leaf-similar-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
