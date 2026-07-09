@@ -33,6 +33,7 @@
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -45,6 +46,7 @@
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -70,6 +72,7 @@
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0938-range-sum-of-bst) |
