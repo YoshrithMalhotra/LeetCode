@@ -137,6 +137,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
