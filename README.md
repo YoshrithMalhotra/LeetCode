@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
 | ------- |
