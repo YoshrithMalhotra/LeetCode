@@ -158,4 +158,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
