@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -151,6 +152,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
