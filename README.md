@@ -19,6 +19,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
