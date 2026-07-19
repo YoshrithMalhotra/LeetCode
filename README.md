@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
