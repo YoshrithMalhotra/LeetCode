@@ -40,6 +40,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0337-house-robber-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -62,6 +63,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0337-house-robber-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -78,6 +80,7 @@
 | [0101-symmetric-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -97,6 +100,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
