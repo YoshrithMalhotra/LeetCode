@@ -19,6 +19,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
@@ -190,6 +191,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
@@ -204,6 +206,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
