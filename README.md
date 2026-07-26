@@ -204,6 +204,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -211,5 +212,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
