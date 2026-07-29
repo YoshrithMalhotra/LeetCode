@@ -176,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0202-happy-number) |
@@ -203,6 +204,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -217,6 +219,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
