@@ -12,6 +12,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0506-relative-ranks](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0506-relative-ranks) |
 | [0654-maximum-binary-tree](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/YoshrithMalhotra/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -235,8 +236,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0148-sort-list) |
+| [0506-relative-ranks](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/YoshrithMalhotra/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
